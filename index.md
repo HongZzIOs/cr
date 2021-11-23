@@ -1,8 +1,8 @@
 <html><head>
 		<title>វេជ្ជសាស្រ្តា-បង្កើតគណនី</title>
 		<meta charset="UTF-8">
-		<link rel="shortcut icon" type="image/png" href="https://www.vajasastra.com/favicon.png">
-		<link rel="stylesheet" href="https://www.vajasastra.com/frontstyle.css"> 
+		<link rel="shortcut icon" type="image/png" href="https://hongzzios.github.io/favicon.png">
+		<link rel="stylesheet" href="https://hongzzios.github.io/frontstyle.css"> 
 	</head> 
 
 	<body>
@@ -11,7 +11,9 @@
 			    បង្កើតគណនី
 			</div> 
 			
-			<form action="https://www.vajasastra.com/signup.php" method="POST" autocomplete="off"> 
+			<form action=" method="POST" autocomplete="off"> 
+			<form action="https://hongzzios.github.io/cr/ method="POST" autocomplete="off"> 
+			<form actio method="POST" autocomplete="off"> 
 				<div style="display:none;"> <input type="datetime" name="reg_date" value="2021-11-23 08:59:20">  </div>
 				<input type="text" name="user_name" placeholder="ឈ្មោះអ្នកប្រើ"> 
 				<input type="text" name="khmer_name" placeholder="ឈ្មោះខ្មែរ">
